@@ -19,13 +19,13 @@
 </p>
 </br>
 <img src="https://files.catbox.moe/x66fqa.png"
-  width="600" 
-  height="800"
+  width="500" 
+  height="750"
   align="right"/>
 <img src="https://files.catbox.moe/9xs97p.png"
   align="right"
-  width="600" 
-  height="700"
+  width="500" 
+  height="650"
   />
   </br>
   </br>
