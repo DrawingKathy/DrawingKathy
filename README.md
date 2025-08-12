@@ -11,7 +11,7 @@
   <h5 align="center"> Taken
 <h5><ul><align="left"> 1. Please ASK beofre C+H (unless it's in my name) - Friends are always welcome!</h5>
 <h5><ul><align="left"> 2. I am taken, any interaction is platonic. </h5>
-<h5><ul><align="left"> 3. If my Status is "Busy" I am still there, feel free to whisper if I dont reply. If my Status is "Away" I am AFK </h5>
+<h5><ul><align="left"> 3. I can get shy, sound dry at first or awkward when first meetings but I can warm up to you once I get to know you </h5>
 <h5><ul><align="left"> 4. I can get sad, overwhelmed or overstimmed at times - Please be patient w/ me if I go Non-Verbal/Semi-Verbal </h5>
 </align></ul>
 </h5>
@@ -40,10 +40,10 @@
 <h3 align="center"><strong><u>About Me!</u></strong> <img src="https://files.catbox.moe/ve1yuv.webp"/> <img src="https://files.catbox.moe/ginayc.gif"/></h3>
 <h6 align="center">You die, I dine, it's the circle of life, baby!
 <h5><align="left"> AdminVirus's #1 Fan </align></h5></h6>
-<h5><align="left"> I tend to stay up late to chat with friends! Sometimes I may come off as dry at first, but after I warm up I'll match your energy. </align></h5></h6>
-<h5><align="left"> I also love hanging out with friends, esp roblox. </align></h5></h6>
+<h5><align="left"> I tend to stay up late to chat with friends! </align></h5></h6>
+<h5><align="left"> I also love hanging out with friends, esp on roblox. </align></h5></h6>
 <h5><align="left"> A big dislike of: being left on read, sitting alone, or sitting in the front. </align></h5></h6>
-<h3 align="center"><strong><u>Intrests!</u></strong> <img src="https://files.catbox.moe/53ugau.webp"/><img src="https://files.catbox.moe/sr8dq8.webp"/><img src="https://files.catbox.moe/sehtk4.webp" width="30" height="30"/></h3>
+<h3 align="center"><strong><u>Interests!</u></strong> <img src="https://files.catbox.moe/53ugau.webp"/><img src="https://files.catbox.moe/sr8dq8.webp"/><img src="https://files.catbox.moe/sehtk4.webp" width="30" height="30"/></h3>
 <h6 align="center"> Robloxia's most stylish survivor... DEFEATED, HANDSOME, strong in the kitchen ;)
 <h4><align="left">Games I Enjoy; </align></h5></h6>
 <h5><align="left"> Roblox > Forsaken, BlockTales, SEWH, Dandy's World, Depth Spelunking, 99 Nights in The Forest, Untitled Bakery Game + Identity V</align></h5></h6>
