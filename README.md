@@ -52,5 +52,4 @@
 <h4><align="left"> Favs; </align></h5></h6>
 <h5><align="left"> Forsaken > Shedletsky, 1x1x1x1, Dusekkar, Taph, Chance, 007n7, Coolkid, Mafioso </align></h5></h6>
 <h5><align="left"> IDV > Orpheus, Wu Chang, Florian Brand, Victor Grantz, Norton Campbell/Fools Gold, Memory, Richard Sterling, etc </align></h5></h6>
-<h5><align="left"> Dandy's World > Cosmo, Sprout, Bobette, Coal, Dandy, Pebble, Shelly, Vee, Bassie, Yatta, Goob, Shrimpo, etc. </align></h5></h6>
-<h5><align="left"> Others > Characters: Kirby, Mash Burnedead, Ellernate, Gangle, Boothill, Baizhu, Sir Pentious, Cruel King </align></h5></h6>
+<h5><align="left"> Others > Characters: Kirby, Mash Burnedead, Ellernate, Gangle, Boothill, Baizhu, Sir Pentious, Cruel King, Cosmo, Sprout, Bobette, Coal, Pebble, Bassie, Shelly</align></h5></h6> 
