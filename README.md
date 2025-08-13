@@ -47,9 +47,10 @@
 <h6 align="center"> I'm Shedletsky and I like chicken
 <h4><align="left">Games I Enjoy; </align></h5></h6>
 <h5><align="left"> Roblox > Forsaken, BlockTales, SEWH, Dandy's World, Depth Spelunking, 99 Nights in The Forest, Untitled Bakery Game + Identity V</align></h5></h6>
-<h4><align="left"> Fandoms > Roblox, Forsaken, BlockTales, Identity V, FNAF, Undertale, Deltarune, Kirby, JSAB, MASHLE, and More! </align></h5></h6>
+<h4><align="left"> Fandoms > Roblox, Forsaken, May Madness 2012, BlockTales, Identity V, FNAF, Undertale, Deltarune, Kirby, JSAB, MASHLE, and More! </align></h5></h6>
 </p>
 <h4><align="left"> Favs; </align></h5></h6>
-<h5><align="left"> Forsaken > Shedletsky, 1x1x1x1, Dusekkar, Taph, Chance, 007n7, Coolkid, Mafioso </align></h5></h6>
-<h5><align="left"> IDV > Orpheus, Wu Chang, Florian Brand, Victor Grantz, Norton Campbell/Fools Gold, Memory, Richard Sterling, etc </align></h5></h6>
-<h5><align="left"> Others > Characters: Kirby, Mash Burnedead, Ellernate, Gangle, Boothill, Baizhu, Sir Pentious, Cruel King, Cosmo, Sprout, Bobette, Coal, Pebble, Bassie, Shelly</align></h5></h6> 
+<h5><align="left"> Comfs > Shedletsky, 1x1x1x1, Orpheus, Wu Chang, Florian Brand, Ellernate, Bobette, Cosmo, Kirby
+<h5><align="left"> Forsaken > Dusekkar, Taph, Chance, 007n7, Coolkid, Mafioso </align></h5></h6>
+<h5><align="left"> IDV > Norton Campbell/Fools Gold, Memory, Richard Sterling, etc </align></h5></h6>
+<h5><align="left"> Others > Characters: Mash Burnedead, Gangle, Boothill, Baizhu, Sir Pentious, Cruel King, Sprout, Coal, Pebble, Bassie, Shelly </align></h5></h6> 
