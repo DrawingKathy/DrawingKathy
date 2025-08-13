@@ -8,7 +8,9 @@
 <h3 align="center"><strong><u>BYFI!</u></strong> <img src="https://files.catbox.moe/3khn6a.gif"/> <img src="https://files.catbox.moe/8bpx0m.gif"/> </h3>
 <h6 align="center"> <img src="https://files.catbox.moe/l52ws5.webp" /> Shedletsky's law: If it squawks or talks, it get's the SWORD  <img src="https://files.catbox.moe/i9xbtp.webp"/> 
 <h5 align="center"> Prns // She/Her > Pansexual, Demisexual <img src="https://files.catbox.moe/f7xhss.webp" width="30" height="60" /> <img src="https://files.catbox.moe/oia0in.jpg" width="30" height="60" /> 
-  <h5 align="center"> Taken
+  <h5 align="center"> Taken </h5> <img src="https://files.catbox.moe/zvmppy.webp"  width="100" 
+  height="800" />
+                                    
 <h5><ul><align="left"> 1. Please ASK before C+H - Friends are always welcome! </h5>
 <h5><ul><align="left"> 2. I am taken, any interaction is platonic. </h5>
 <h5><ul><align="left"> 3. I can get shy, sound dry at first or awkward when first meetings but I can warm up to you once I get to know you! </h5>
