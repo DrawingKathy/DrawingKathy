@@ -46,12 +46,11 @@
 <h5><align="left"> A big dislike of: being left on read, sitting alone, or sitting in the front. </align></h5></h6>
 <h3 align="center"><strong><u>Interests!</u></strong> <img src="https://files.catbox.moe/53ugau.webp"/><img src="https://files.catbox.moe/sr8dq8.webp"/><img src="https://files.catbox.moe/sehtk4.webp" width="30" height="30"/></h3>
 <h6 align="center"> I'm Shedletsky and I like chicken
-<h4><align="left">Games I Enjoy; </align></h5></h6> <img src="https://files.catbox.moe/zvmppy.webp"  width="100" 
-  height="100" />
+<h4><align="left">Games I Enjoy; </align></h5></h6>
 <h5><align="left"> Roblox > Forsaken, BlockTales, SEWH, Dandy's World, Depth Spelunking, 99 Nights in The Forest, Untitled Bakery Game + Identity V</align></h5></h6>
 <h4><align="left"> Fandoms > Roblox, Forsaken, May Madness 2012, BlockTales, Identity V, FNAF, Undertale, Deltarune, Kirby, JSAB, MASHLE, and More! </align></h5></h6>
 </p>
-<h4><align="left"> Favs; </align></h5></h6>
+<h4><align="left"> Favs; </align></h5></h6> 
 <h5><align="left"> Comfs > Shedletsky, 1x1x1x1, Orpheus, Wu Chang, Florian Brand, Ellernate, Bobette, Cosmo, Kirby
 <h5><align="left"> Forsaken > Dusekkar, Taph, Chance, 007n7, Coolkid, Mafioso </align></h5></h6>
 <h5><align="left"> IDV > Norton Campbell/Fools Gold, Memory, Richard Sterling, etc </align></h5></h6>
