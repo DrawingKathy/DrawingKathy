@@ -11,7 +11,7 @@
   <h5 align="center"> Taken, any interaction is platonic.
                                     
 <h5><ul><align="left"> 1. Please ASK before C+H - Friends are always welcome! </h5>
-<h5><ul><align="left"> 2. Copy my ponies = block (if you see my cosplays with no github thats not me and copied me.) </h5>
+<h5><ul><align="left"> 2. Copy my ponies = block (if you see my cosplays that doesn't have my github then thats not me and they copied me.) </h5>
 <h5><ul><align="left"> 3. I can get shy, sound dry at first or awkward when first meetings but I can warm up to you once I get to know you! </h5>
 <h5><ul><align="left"> 4. I can get sad, overwhelmed or overstimmed at times - Please be patient w/ me if I go Non-Verbal/Semi-Verbal </h5>
 </align></ul>
