@@ -1,10 +1,10 @@
 <img width="2035" height="74" alt="image" src="https://github.com/user-attachments/assets/9bb99d87-e1a4-4217-adeb-6773720197d9" />
 <img width="470" height="630" align="left" src="https://github.com/user-attachments/assets/a114dd10-c47c-4025-92c7-12ff1a63fe1a" />
-<h3 align="center"> <img width="320" height="350"  src="https://github.com/user-attachments/assets/ed02af29-9617-4198-9f97-08f938edf616" /> </h3>
+<h3 align="center"> <img width="350" height="350"  src="https://github.com/user-attachments/assets/ed02af29-9617-4198-9f97-08f938edf616" /> </h3>
 <h5 align="left"> 1. I am an Adult + Basic DNI criteria </h5>
 <h5 align="left"> 2. Please ASK before C+H - Friends are always welcome! (A reminder that I dislike sitting in front, especially in groups) </h5>
 <h5 align="left"> 3. Copy my ponies = block (if you see my cosplays that don't have my GitHub, then that's not me, and they copied me.) </h5>
-<h5 align="left"> 4. Any int! But know I can get shy or a little awkward when first meetings, but I can warm up to you once I get to know you! </h5>
+<h5 align="left"> 4. I can get shy or a little awkward when first meetings, but I can warm up to you once I get to know you! </h5>
 <h3 align="center"> <img width="1000" height="99" alt="image" src="https://github.com/user-attachments/assets/f09ba9cd-5a76-4333-a9d1-a6cbe7d82f5b" />
 <img width="400" height="450" alt="image" align="right" src="https://github.com/user-attachments/assets/b2232a1b-c056-4c81-bebf-9df62c7ae771" />
 <h3 align="center"><img  width="400" height="320" src="https://github.com/user-attachments/assets/259de21d-4fdc-4ab8-a59f-0ed99c2138c7" />
