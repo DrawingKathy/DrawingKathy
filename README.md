@@ -1,57 +1,22 @@
-<p align="center"> 
-<img src="https://files.catbox.moe/62h9t8.png"/>
-<img src="https://files.catbox.moe/yx0umi.png"
-  width="400" 
-  height="800"
-  align="left"/>
-
-<h3 align="center"><strong><u>BYFI!</u></strong> <img src="https://files.catbox.moe/3khn6a.gif"/> <img src="https://files.catbox.moe/8bpx0m.gif"/> </h3>
-<h6 align="center"> <img src="https://files.catbox.moe/l52ws5.webp" /> Shedletsky's law: If it squawks or talks, it get's the SWORD  <img src="https://files.catbox.moe/i9xbtp.webp"/> 
-<h5 align="center"> Prns // She/Her > Pansexual, Demisexual <img src="https://files.catbox.moe/f7xhss.webp" width="30" height="60" /> <img src="https://files.catbox.moe/oia0in.jpg" width="30" height="60" /> 
-  <h5 align="center"> Taken, any interaction is platonic.
-                                    
-<h5><ul><align="left"> 1. Please ASK before C+H - Friends are always welcome! </h5>
-<h5><ul><align="left"> 2. Copy my ponies = block (if you see my cosplays that doesn't have my github then thats not me and they copied me.) </h5>
-<h5><ul><align="left"> 3. I can get shy, sound dry at first or awkward when first meetings but I can warm up to you once I get to know you! </h5>
-<h5><ul><align="left"> 4. I can get sad, overwhelmed or overstimmed at times - Please be patient w/ me if I go Non-Verbal/Semi-Verbal </h5>
-</align></ul>
-</h5>
-</h6>
-</p>
-</br>
-<img src="https://files.catbox.moe/x66fqa.png"
-  width="500" 
-  height="750"
-  align="right"/>
-<img src="https://files.catbox.moe/9xs97p.png"
-  align="right"
-  width="500" 
-  height="650"
-  />
-  </br>
-  </br>
-  </br>
-      
-</p>
- <img src="https://files.catbox.moe/soh9o5.jpg"
-  align="right"
-  width="450" 
-  height="600"
-  />
-<h3 align="center"><strong><u>About Me!</u></strong> <img src="https://files.catbox.moe/ve1yuv.webp"/> <img src="https://files.catbox.moe/ginayc.gif"/></h3>
-<h6 align="center"> Robloxia's most stylish survivor... DEFEATED, HANDSOME, strong in the kitchen ;)
-<h5><align="left"> AdminVirus's #1 Fan </align></h5></h6>
-<h5><align="left"> I tend to stay up late to chat with friends! I also love hanging out with friends, esp on roblox. </align></h5></h6>
-<h5><align="left"> I like to draw, write, and sometimes edit things </align></h5></h6>
-<h5><align="left"> A big dislike of: being left on read, sitting alone, or sitting in the front. </align></h5></h6>
-<h3 align="center"><strong><u>Interests!</u></strong> <img src="https://files.catbox.moe/53ugau.webp"/><img src="https://files.catbox.moe/sr8dq8.webp"/><img src="https://files.catbox.moe/sehtk4.webp" width="30" height="30"/></h3>
-<h6 align="center"> I'm Shedletsky and I like chicken
-<h4><align="left">Games I Enjoy; </align></h5></h6>
-<h5><align="left"> Roblox > BlockTales, Terror Realm, SEWH, Dandy's World, Dolly's Factory, Depth Spelunking, 99 Nights in The Forest, Untitled Bakery Game + Identity V</align></h5></h6>
-<h4><align="left"> Fandoms > Roblox, May Madness 2012, BlockTales, Toy Story, Identity V, FNAF, Undertale, Deltarune, Kirby, JSAB, MASHLE, and More! </align></h5></h6>
-</p>
-<h4><align="left"> Favs; </align></h5></h6> 
-<h5><align="left"> Comfs > Shedletsky, 1x1x1x1, Ellernate, Orpheus, Wu Chang, Florian Brand, Bobette, Cosmo, Kirby
-<h5><align="left"> IDV > Norton Campbell/Fools Gold, Memory, Richard Sterling, etc </align></h5></h6>
-<h5><align="left"> Others > Characters: Mash Burnedead, Gangle, Boothill, Baizhu, Sir Pentious, Cruel King, Sprout, Coal, Pebble, Bassie, Shelly </align></h5></h6> 
-<img src= "https://files.catbox.moe/hsg8k2.gif" />
+<img width="2035" height="74" alt="image" src="https://github.com/user-attachments/assets/9bb99d87-e1a4-4217-adeb-6773720197d9" />
+<img width="500" height="700" align="right" src="https://github.com/user-attachments/assets/268b872b-1f6b-4272-95b4-c2cc69b830ad" />
+<h3 align="center"> <img width="400" height="320"  src="https://github.com/user-attachments/assets/ed02af29-9617-4198-9f97-08f938edf616" /> </h3>
+<h5 align="left"> 1. I am an Adult + Basic DNI criteria </h5>
+<h5 align="left"> 2. Please ASK before C+H - Friends are always welcome! (A reminder that I dislike sitting in front, especially in groups) </h5>
+<h5 align="left"> 3. Copy my ponies = block (if you see my cosplays that don't have my GitHub, then that's not me, and they copied me.) </h5>
+<h5 align="left"> 4. Any int! But know I can get shy or a little awkward when first meetings, but I can warm up to you once I get to know you! </h5>
+<h3 align="center"> <img width="1000" height="99" alt="image" src="https://github.com/user-attachments/assets/f09ba9cd-5a76-4333-a9d1-a6cbe7d82f5b" />
+<img width="400" height="450" alt="image" align="right" src="https://github.com/user-attachments/assets/b2232a1b-c056-4c81-bebf-9df62c7ae771" />
+<h3 align="center"><img  width="400" height="320" src="https://github.com/user-attachments/assets/259de21d-4fdc-4ab8-a59f-0ed99c2138c7" />
+<h5 align="left"> I'm Taken; any interactions will be platonic. 
+<<h5 align="left"> I can get sad, overwhelmed, or overstimulated at times - Please be patient w/ me if I go Non-Verbal/Semi-Verbal
+<h5 align="left"> I love all my friends who enjoy my company or want to hang out with me <3
+<h5 align="left"> I like to draw, write, roleplay, or sometimes edit 
+</h5></h5></h5></br>
+<img width="400" height="450 alt="image" align="left" src="https://github.com/user-attachments/assets/94730c03-6bbf-4967-8978-b96dd749b8aa" />
+<h6 align="center"><img  width="280" height="225"src="https://github.com/user-attachments/assets/d870182f-b563-4f7c-99a4-f84ffe2ce4f6" />
+<h3 align="left"> >> Media I Enjoy 
+<h5 align="left"> Roblox > BlockTales, Terror Realm, Pupi Midnight Munchie, Something Evil Will Happen, Dandy's World, Dolly's Factory, Depth Spelunking, An Average Campaign, The Remains of Robloxia, Regretevator, 99 Nights in The Forest
+<h5 align="left"> Others > Toy Story(Movie), any Pixar movies, Identity V, Kirby(Games/Anime), Pikmin(Games), Pokémon(Games/Anime), Mario(Games), Undertale/Deltarune, Five Nights At Freddy's, Just Shapes and Beats, Mashle(Anime), Yo-Kai Watch(Anime), Cartoon shows
+<h3 align="left"> >> Comfort Characters
+<h5 align="left"> Woody Pride, Buzz Lightyear, Slinky, Bullseye (Toy Story), Shedletsky/Telamon, 1x1x1x1, Ellernate, TheC0mmuinty (Roblox), Orpheus, Wu Chang, Florian Brand (Identity V), Bobette, Gourdy, Cosmo (Dandy's World), Kirby (Nintendo), Ash Ketchum, Rowlet (Pokémon), Mash Burndead (Mashle)
