@@ -1,6 +1,6 @@
 <img width="2035" height="74" alt="image" src="https://github.com/user-attachments/assets/9bb99d87-e1a4-4217-adeb-6773720197d9" />
-<img width="480" height="630" align="right" src="https://github.com/user-attachments/assets/a114dd10-c47c-4025-92c7-12ff1a63fe1a" />
-<h3 align="left"> <img width="340" height="350"  src="https://github.com/user-attachments/assets/ed02af29-9617-4198-9f97-08f938edf616" /> </h3>
+<img width="500" height="630" align="right" src="https://github.com/user-attachments/assets/a114dd10-c47c-4025-92c7-12ff1a63fe1a" />
+<h3 align="left"> <img width="320" height="350"  src="https://github.com/user-attachments/assets/ed02af29-9617-4198-9f97-08f938edf616" /> </h3>
 <h5 align="left"> 1. I am an Adult + Basic DNI criteria </h5>
 <h5 align="left"> 2. Please ASK before C+H - Friends are always welcome! (A reminder that I dislike sitting in front, especially in groups) </h5>
 <h5 align="left"> 3. Copy my ponies = block (if you see my cosplays that don't have my GitHub, then that's not me, and they copied me.) </h5>
